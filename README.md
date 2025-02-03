@@ -1,1 +1,2 @@
 # Train-a-model-to-predict-age-from-images-using-GPU
+The project's goal is to create an artificial vision-based model that can be used to verify the age of customers in a chain of supermarkets when they purchase alcohol. An exploratory data analysis, presentation, and evaluation of a neural network model on a GPU platform will be carried out using a collection of image data that has been labeled with the individuals' ages. Lastly, the findings and conclusions will be documented to ensure that the laws governing the sale of alcohol to minors are followed.
